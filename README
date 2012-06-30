@@ -1,0 +1,31 @@
+gem install wikicloth
+
+ =ValiantUDK=
+
+ This is a simple project that builds a CoD style shooter on top of the UDK framework.
+
+==Completed Features==
+*4 states of movement:
+**Crawl
+**Crouch/sneak
+**Walk
+**Run
+**Sprint
+
+*Weapon Extension
+**Automatic or SemiAuto
+**Clips
+
+
+
+
+==In Progress==
+*Kismet Driven UI
+**Add Window
+**Add Text/Image
+**Modify (Over Time)
+***Text
+***Image
+***Position
+***Scale
+***Rotation
