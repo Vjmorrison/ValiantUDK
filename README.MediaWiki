@@ -1,8 +1,6 @@
-gem install wikicloth
+=ValiantUDK=
 
- =ValiantUDK=
-
- This is a simple project that builds a CoD style shooter on top of the UDK framework.
+This is a simple project that builds a CoD style shooter on top of the UDK framework.
 
 ==Completed Features==
 *4 states of movement:
